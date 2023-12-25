@@ -8,7 +8,7 @@ This project investigates the utility of artificial intelligence (AI) in detecti
 
 ### Acknowledgments
 
-We express gratitude to the institutions and researchers who contributed to the data collection. [See here](link_to_contributors) for the full list of collaborators.
+We express gratitude to the institutions and researchers who contributed to the data collection.
 
 ### Key Objectives
 
