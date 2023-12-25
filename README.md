@@ -69,6 +69,8 @@ This project serves as a valuable exploration into leveraging AI for COVID-19 de
 
 ## Model Deployment
 The model is deployed using Flask for web application development.
+### Input
+![Input](model_deployment/input.jpg)
 
 ### Deployment Instructions
 Clone the repository.
