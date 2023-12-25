@@ -67,11 +67,12 @@ This project serves as a valuable exploration into leveraging AI for COVID-19 de
 
 
 
-## Usage Instructions
+## Model Deployment
+The model is deployed using Flask for web application development.
 
-1. Clone the repository to your local environment.
-2. Install necessary dependencies as per provided instructions.
-3. Run the Flask application locally for an interactive experience.
+### Deployment Instructions
+Clone the repository.
+Run the Flask application locally for firsthand experience.
 
 ### Contribution Guidelines
 
